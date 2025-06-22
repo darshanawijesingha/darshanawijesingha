@@ -23,9 +23,4 @@
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
----
 
-📈 **GitHub Stats**
-
-![Darshana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarshanaWijesinghe&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanaWijesinghe&layout=compact)
