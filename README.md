@@ -2,7 +2,7 @@
 
 🔍 **Pronouns**: He/Him  
 💼 **Role**: Data Analyst & Business Intelligence Specialist  
-📊 **Skills**: SQL | Power BI | Python | Pandas | Machine Learning | Forecasting  | Agentic AI | RAG Model
+📊 **Skills**: SQL | Power BI | Python | Pandas | Machine Learning | Forecasting  | Agentic AI 
 🌱 **Currently Learning**: Advanced Time Series Modeling & Generative AI (LLMs)  
 🚀 **Goals for 2025**: 
 - Build a forecasting dashboard with real-time updates
